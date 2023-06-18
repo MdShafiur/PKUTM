@@ -10,7 +10,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import '../utils/config.dart';
 
-class LoginForm extends StatefulWidget {
+class LoginForm extends StatefulWidget{
   const LoginForm({Key? key}) : super(key: key);
 
   @override
