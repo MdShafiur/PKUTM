@@ -3,7 +3,7 @@ import 'package:doctor_appointment_app/screens/doctor_details.dart';
 import 'package:doctor_appointment_app/utils/config.dart';
 import 'package:flutter/material.dart';
 
-class DoctorCard extends StatelessWidget {
+class DoctorCard extends StatelessWidget{
   const DoctorCard({
     Key? key,
     required this.doctor,
