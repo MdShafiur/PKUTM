@@ -17,7 +17,7 @@ class DioProvider {
       } else {
         return false;
       }
-    } catch (error) {
+    } catch (error){
       return error;
     }
   }
