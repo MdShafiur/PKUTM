@@ -7,7 +7,7 @@ import 'package:provider/provider.dart';
 
 import '../utils/config.dart';
 
-class SignUpForm extends StatefulWidget {
+class SignUpForm extends StatefulWidget{
   SignUpForm({Key? key}) : super(key: key);
 
   @override
