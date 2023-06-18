@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:rating_dialog/rating_dialog.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-class AppointmentCard extends StatefulWidget {
+class AppointmentCard extends StatefulWidget{
   AppointmentCard({Key? key, required this.doctor, required this.color})
       : super(key: key);
 
